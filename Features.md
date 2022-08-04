@@ -7,7 +7,7 @@ Signup with email:
 - creates a new user in the db and stores the password in a hash format
 - sends out access and refresh token(JWT) as response
 
-Signup with Social(gmail):
+Signup with Social(gmail): (To Do)
 - allows anyone to create a new account using their gmail account
 - generates a random username internally for this user 
 
